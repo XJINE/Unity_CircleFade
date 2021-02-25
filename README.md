@@ -11,7 +11,7 @@ ImageEffect to make circle fade.
 
 You can import this asset from UnityPackage.
 
-- [CircleEffect.unitypackage](https://github.com/XJINE/Unity_CircleEffect/blob/master/CircleEffect.unitypackage)
+- [CircleFade.unitypackage](https://github.com/XJINE/Unity_CircleEffect/blob/master/CircleFade.unitypackage)
 
 ### Dependencies
 
